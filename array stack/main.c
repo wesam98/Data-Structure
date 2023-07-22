@@ -21,7 +21,7 @@ int main()
     {
         stackTop(&e ,&s);
     }
-    traversstack(display,&s);
+    traversstack(&display,&s);
 
     return 0;
 }
