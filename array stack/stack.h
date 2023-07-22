@@ -12,21 +12,21 @@ typedef struct stack{
     stackEntry Array;
     int top;
 }Stack;
-void createStack(Stack *);
+void createStack(Stack *ps);
 
-void push (stackEntry , Stack *);
+void push (stackEntry e , Stack *ps);
 
-int stackFul(Stack *);
+int stackFul(Stack *ps);
 
-void pop (stackEntry *, Stack *);
+void pop (stackEntry *pe, Stack *ps);
 
-int stackEmpty (Stack *);
+int stackEmpty (Stack *ps);
 
-void stackTop (stackEntry * ,Stack *);
+void stackTop (stackEntry *pe ,Stack *ps);
 
-int StackSize (Stack *);
+int StackSize (Stack *ps);
 
-void clearStack(Stack *);
+void clearStack(Stack *ps);
 
-void traversstack(void (*) (stackEntry),Stack *);
+void traversstack(void (*pf) (stackEntry ),Stack *ps);
 
