@@ -37,7 +37,7 @@ void clearStack(Stack *ps){
     // for user two functions do different jobs this function will destroy all elements then inti stack
     //but createStack just intialize
 }
-void traversstack(void (*ps) (stackEntry),Stack *ps){
+void traversstack(void (*pf) (stackEntry),Stack *ps){
     for(int i=ps->top;i>0;i++)                               // combine data user only know with data which emplementer omly know
-        (*ps)(ps->Array[i-1]);
+        (*pf)(ps->Array[i-1]);
 }
