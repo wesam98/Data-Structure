@@ -1,0 +1,4 @@
+"C:\Users\user\Desktop\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/user/Desktop/CLion 2023.1.5/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\user\CLionProjects\array based queue" -B "C:\Users\user\CLionProjects\array based queue\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/user/CLionProjects/array based queue/cmake-build-debug
