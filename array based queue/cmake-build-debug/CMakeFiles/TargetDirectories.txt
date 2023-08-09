@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/array based queue/cmake-build-debug/CMakeFiles/array_based_queue.dir
-C:/Users/user/CLionProjects/array based queue/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/array based queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
