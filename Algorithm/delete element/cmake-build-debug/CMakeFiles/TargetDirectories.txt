@@ -1,0 +1,3 @@
+C:/Users/user/cat/cat/delete element/cmake-build-debug/CMakeFiles/delete_element.dir
+C:/Users/user/cat/cat/delete element/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/cat/cat/delete element/cmake-build-debug/CMakeFiles/rebuild_cache.dir
